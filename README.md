@@ -97,6 +97,15 @@ El procedimiento lo puede observar entrando al siguiente enlace:
   Figura 6.3: Error.
 </p>
 
+- Figura 2.
+
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe5/blob/main/Im%C3%A1genes/Inductores.jpg">
+</p>
+<p align="center">
+  Figura 6.4: Valores Inductores.
+</p>
+
 * En cada uno de los circuitos anteriores, utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X=Vo/I en cada una de las frecuencias y tambien para calcular los valores de Leq y Ceq según sea el caso. Anote los resultados en una tabla haciendo constar tambien las frecuencias. Compare resultados.
 
 - Figura 1.
@@ -105,21 +114,30 @@ El procedimiento lo puede observar entrando al siguiente enlace:
   <img src="https://github.com/Dillanj2/Informe5/blob/main/Im%C3%A1genes/ReactanciasCapMed.jpg">
 </p>
 <p align="center">
-  Figura 6.4: Reactancias medidas.
+  Figura 6.5: Reactancias medidas.
 </p>
 
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe5/blob/main/Im%C3%A1genes/ReactanciasCapCalc.jpg">
 </p>
 <p align="center">
-  Figura 6.5: Reactancias calculadas.
+  Figura 6.6: Reactancias calculadas.
 </p>
 
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe5/blob/main/Im%C3%A1genes/ErrorReacCap.jpg">
 </p>
 <p align="center">
-  Figura 6.6: Error.
+  Figura 6.7: Error.
+</p>
+
+- Figura 2.
+
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe5/blob/main/Im%C3%A1genes/ReactanciasInd.jpg">
+</p>
+<p align="center">
+  Figura 6.8: Reactancias Inductores.
 </p>
 
 7. PREGUNTAS
