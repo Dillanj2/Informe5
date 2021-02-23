@@ -68,7 +68,7 @@ Realice las mismas mediciones de los items del numeral anterior y presente los r
 
 El procedimiento lo puede observar entrando al siguiente enlace: 
 
-<p><a href="https://github.com/Dillanj2/Informe4/blob/main/C%C3%B3digo%20fuente/Procedimiento_de_Laboratorio_4.pdf">Procedimiento</a>
+<p><a href="https://github.com/Dillanj2/Informe5/blob/main/C%C3%B3digo%20fuente/Procedimiento%20Laboratorio%205.pdf">Procedimiento</a>
   
 6. ANALISIS DE RESULTADOS
 
@@ -97,8 +97,6 @@ El procedimiento lo puede observar entrando al siguiente enlace:
   Figura 6.3: Error.
 </p>
 
-- Figura 2.
-
 * En cada uno de los circuitos anteriores, utilice los resultados de las mediciones de corriente y el voltaje realizados con el multímetro para calcular la reactancia X=Vo/I en cada una de las frecuencias y tambien para calcular los valores de Leq y Ceq según sea el caso. Anote los resultados en una tabla haciendo constar tambien las frecuencias. Compare resultados.
 
 - Figura 1.
@@ -124,17 +122,24 @@ El procedimiento lo puede observar entrando al siguiente enlace:
   Figura 6.6: Error.
 </p>
 
-- Figura 2.
-
-
-
 7. PREGUNTAS
 
 * Justifique los errores cometidos en las mediciones.
 * ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+Una inductancia en estado estable en DC se comporta como un corto circuito, mientras que una capacitancia en estado estable en DC se comporta como un circuito abierto.
+
 * ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+Una inductancia en estado estable en AC a muy alta frecuencia se comporta como un circuito abierto, mientras que una capacitancia en AC a muy alta frecuencia se comporta como un circuito cerrado.
+
 * ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resitencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distinto?
+
+Los valores cambiarian dependiendo de los valores tomados para las bobinas y capacitores.
+
 * ¿Qué son los valores eficaces de voltaje y corriente?
+
+Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicarla sobre una misma resistencia.
 
 8. CONCLUSIONES
 
