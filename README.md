@@ -57,7 +57,9 @@ Una inductancia en estado estable para una señal DC se comporta como un corto c
 5.1 Construya en el protoboard el circuito mostrado en la Figura 1.
 
 a. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+
 b. Utilice el multímetro para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
 c. Utilice un multímetro para medir la corriente que atraviesa la resitencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
 5.2 Construya en el protoboard el circuito mostrado en la Figura 2.
